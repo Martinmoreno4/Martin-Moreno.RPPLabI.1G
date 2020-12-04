@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1607043262 source:c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"biblioteca.h"
+	"cliente.h"
+	"alquileres.h"
+	"operador.h"
+
+1606868917 source:c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1606863285 c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\biblioteca.h
+
+1607043281 source:c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"alquileres.h"
+	"biblioteca.h"
+
+1607043273 c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\alquileres.h
+	"cliente.h"
+	"operador.h"
+
+1607038684 source:c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"cliente.h"
+	"biblioteca.h"
+
+1607038413 c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\cliente.h
+
+1607040968 source:c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\operador.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"operador.h"
+
+1607040968 c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\operador.h
+
+1607043757 source:c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"biblioteca.h"
+	"cliente.h"
+	"alquileres.h"
+	"operador.h"
+	"lib.h"
+
+1607043746 c:\users\user\desktop\utn\martin moreno recuperatorio pimer parcial_maquinaria\lib.h
+	"operador.h"
+	"cliente.h"
+	"alquileres.h"
+	"operador.h"
+
